@@ -1,8 +1,8 @@
-# <h6>ahw30</h6>
+# <h1>ahw30</h1>
 #
-# Report
-#
-# Maven command: >mvn test -Dtest=JUnitTest
+# <h3>Report</h3>
+# <h6>
+# Maven command: <b>>mvn test -Dtest=JUnitTest</b>
 # Report output:
 # -------------------------------------------------------
 # T E S T S
@@ -29,7 +29,7 @@
 # Results :
 #
 # Tests run: 8, Failures: 0, Errors: 0, Skipped: 0
-#
+# </h6>
 # Maven command: >mvn test -Dtest=CalcTest
 # Report output:
 # -------------------------------------------------------
